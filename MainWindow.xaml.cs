@@ -23,6 +23,8 @@ namespace TestingApp
         public MainWindow()
         {
             InitializeComponent();
+            Logining logining = new Logining(this);
+            logining.Show();
         }
     }
 }
