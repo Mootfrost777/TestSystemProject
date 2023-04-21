@@ -4,6 +4,6 @@
              xmlns:local="clr-namespace:TestingApp"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <FontFamily x:Key="FontAwesome">/Testingapp;component/Fonts/FontAwesome.otf#Font Awesome 6 Free Solid</FontFamily>
     </Application.Resources>
 </Application>
